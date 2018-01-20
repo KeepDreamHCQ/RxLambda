@@ -1,2 +1,3 @@
 # RxLambda
-rxjava+retrofit+kotlin
+
+其中有一些参数属性需要根据实际情况进行修改
